@@ -1,0 +1,9 @@
+{
+    "name": "AustralianCord",
+    "description": "Discord flipped 180 degrees",
+    "version": "1.0",
+    "author": "DFA R0dn3yS#2244",
+    "theme": "AustralianCord.css",
+    "consent": "false",
+    "license": "MIT"
+}
